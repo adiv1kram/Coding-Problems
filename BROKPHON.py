@@ -13,6 +13,8 @@ for i in range(t):
             if lis[i]!=lis[i+1]:
                 count+=1 
     print(count)
+    
+ #pull request
                 
             
         
